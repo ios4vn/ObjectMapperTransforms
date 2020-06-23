@@ -1,0 +1,23 @@
+PODS:
+  - ObjectMapper (4.2.0)
+  - ObjectMapperTransforms (2.0.3):
+    - ObjectMapper
+
+DEPENDENCIES:
+  - ObjectMapperTransforms (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ObjectMapper
+
+EXTERNAL SOURCES:
+  ObjectMapperTransforms:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  ObjectMapperTransforms: ad473ff530583515808ed10b11c2878fc9f25c62
+
+PODFILE CHECKSUM: 7feb87c975cf35840643043fe3bbc0cbb1d34243
+
+COCOAPODS: 1.9.3
